@@ -1,0 +1,16 @@
+Sir tw onek kichu i poriyechilo. Tar thik katatuk exam e thakbe, sheta  ami not sure. Tarpor o topic gulu bolchi..
+1. Bisection method
+2. Newton-Raphson method 
+3. Secant method
+4. False-position method
+5. Difference (Forward,Backward, central)
+6. Least square problem 
+7. Gauss elimination 
+8. Gauss Jordan elimination 
+9. LU decomposition 
+10. Fixed point iteration 
+11. Jaccob iteration 
+12. Eigen value & eigen vector 
+13. Trapazoid rule 
+14. Simpsons rule 
+15. Encryption 
